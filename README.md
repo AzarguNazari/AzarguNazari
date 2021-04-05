@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-![images](https://github.com/AzarguNazari/AzarguNazari/blob/main/skills.jpg?raw=true)
+<!-- ![images](https://github.com/AzarguNazari/AzarguNazari/blob/main/skills.jpg?raw=true) -->
+![image](https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1)
 
 <!--
 **AzarguNazari/AzarguNazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
