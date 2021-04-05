@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 <!-- ![images](https://github.com/AzarguNazari/AzarguNazari/blob/main/skills.jpg?raw=true) -->
-
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" style="margin-left:200px;"/>
-
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
+</p>
 <!--
 **AzarguNazari/AzarguNazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
