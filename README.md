@@ -14,6 +14,7 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
       </p>
+      
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzarguNazari&layout=compact)](https://github.com/AzarguNazari/github-readme-stats)
 
   </td>
